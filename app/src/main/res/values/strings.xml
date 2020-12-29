@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLiteCRUD demo</string>
+    <string name="show">Show</string>
+    <string name="save">Save</string>
+    <string name="enter_your_cgpa">Enter your CGPA</string>
+    <string name="enter_your_mail">Enter your mail</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="student_information_management">Student Information Management</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>
